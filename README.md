@@ -6,7 +6,7 @@ This project fulfills all requirements for the Noroff JavaScript Frameworks Cour
 ---
 
 ## Live Demo  
-**Vercel Deployment:** *<jsfw-2025-v1-ole-kristian-jsframewo.vercel.app>*  
+**Vercel Deployment:** *<https://jsfw-2025-v1-ole-kristian-jsframewo.vercel.app/>*  
 
 ## GitHub Repository  
 **Repository:** *<https://github.com/NoroffFEU/jsfw-2025-v1-ole-kristian-jsframeworks>*
