@@ -215,6 +215,16 @@ This project is for educational use as part of the Noroff JavaScript Frameworks 
 JS Frameworks Course Assignment – Noroff 2025
 
 
+---
+
+## Portfolio 2 Improvements
+
+For Portfolio 2, small code quality improvements were made to the project:
+
+- Replaced loose equality (`==`) with strict equality (`===`) in the rating helper function.
+- This improves type safety and avoids unintended type coercion.
+- No functionality was changed — this was a code quality refinement.
+
 
 
 
