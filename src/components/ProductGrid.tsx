@@ -29,7 +29,7 @@ function getFinalPrice(p: Product) {
 }
 
 function getRatingValue(rating: Product["rating"]): number | null {
-  if (rating == null) return null;
+  if (rating === null || rating === undefined) return null;
   if (typeof rating === "number") return rating;
   if (typeof rating === "object" && typeof rating.rate === "number")
     return rating.rate;
